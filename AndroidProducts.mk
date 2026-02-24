@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pd_nuwa.mk
+    $(LOCAL_DIR)/pb_nuwa.mk
 
 COMMON_LUNCH_CHOICES := \
-    pd_nuwa-user \
-    pd_nuwa-userdebug \
-    pd_nuwa-eng
+    pb_nuwa-user \
+    pb_nuwa-userdebug \
+    pb_nuwa-eng
