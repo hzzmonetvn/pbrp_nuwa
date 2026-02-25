@@ -5,7 +5,7 @@ DEVICE_PATH := device/xiaomi/nuwa
 AB_OTA_UPDATER := true
 
 # Shipping API
-PRODUCT_SHIPPING_API_LEVEL := 33
+PRODUCT_SHIPPING_API_LEVEL := 32
 
 # Dynamic partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
